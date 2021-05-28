@@ -10,9 +10,9 @@ describe('Protractor Tutoriall',function()
 		browser.get('https://angularjs.org/'); //hit URL in chrome
 			}) //In Jasmine framework each it block is considerd as a spec. First is passed. 
 	it('Close Browser', function ()
-	{
+			{
 		
-	})
+			})
 	})
 	
 	
