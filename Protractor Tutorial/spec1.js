@@ -7,6 +7,6 @@ describe('Protractor Tutoriall',function()
 			{
 //it has two parameters. First is the name of testcase.
 //second is the actual testcases codes in JS.
-		browser.get('https://angularjs.org/');
+		browser.get('https://angularjs.org/'); //hit URL in chrome
 			})
 	})
