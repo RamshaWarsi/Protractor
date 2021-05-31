@@ -9,6 +9,7 @@ describe('Protractor Tutoriall',function()
 //second is the actual testcases codes in JS.
 		browser.get('https://angularjs.org/'); //hit URL in chrome
 			}) //In Jasmine framework each it block is considerd as a spec. First is passed. 
+			//Install Pllugin to get auto suggestion 
 	it('Close Browser', function ()
 			{
 		
