@@ -1,4 +1,4 @@
-describe('Protractor Tutoriall',function()
+describe('Protractor Tutorial',function()
 //Decribe has two psrsmeters. First Test suite name
 		//Second - Function- It has all the it blocks
 	

@@ -1,4 +1,4 @@
 exports.config = {
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['spec1.js'] //run webdriver again. 
+  specs: ['ElementsBasics.js'] //run webdriver again. 
 };
