@@ -14,9 +14,6 @@ element(by.model("first")).sendKeys("8");
 browser.sleep(5000);
 element(by.model("second")).sendKeys("10");
 element(by.id('gobutton')).click();
-browser.sleep(3000);
-//.then (function()
-//{
-//browser.sleep(10000); })
-			} )
-	} )
+browser.sleep(5000);
+})
+})

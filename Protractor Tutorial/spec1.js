@@ -1,5 +1,9 @@
+/**
+ * 
+ */
+
 describe('Protractor Tutorial',function()
-//Decribe has two psrsmeters. First Test suite name
+//Decribe has two psrameters. First Test suite name
 		//Second - Function- It has all the it blocks
 	
 	{
