@@ -1,7 +1,7 @@
 describe('Protractor Elements Basics',function()
 
 	{
-	it('locators', function()
+	it('jasmine Assertions', function()
 			{
 browser.get("http://juliemr.github.io/protractor-demo/"); 
 element(by.model("first")).sendKeys("8");

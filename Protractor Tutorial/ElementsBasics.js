@@ -1,7 +1,7 @@
 describe('Protractor Elements Basics',function()
 
 	{
-	it('locators', function()
+	it('ElementBasics', function()
 			{
 browser.get("http://juliemr.github.io/protractor-demo/"); //Calculator site is not launched by angular.
 //http://juliemr.github.io/protractor-demo/

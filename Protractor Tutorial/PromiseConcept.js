@@ -1,6 +1,6 @@
 describe('Protractor Tutorial',function()	
 	{
-	it('First JS Website', function()
+	it('Promise Concept', function()
 			{
 		browser.sleep(5000);
 		browser.get('https://angularjs.org/').then(function()
